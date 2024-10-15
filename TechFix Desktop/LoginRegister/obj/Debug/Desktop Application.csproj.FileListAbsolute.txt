@@ -1,0 +1,65 @@
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\bin\Debug\LoginRegister.exe.config
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\bin\Debug\LoginRegister.exe
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\bin\Debug\LoginRegister.pdb
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.Dashboard.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.DashboardA.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.editS.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.inventory.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.inventoryS.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.edit.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.Login.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.LoginS.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.main.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.orders.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.ordersS.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.SignUp.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.SignupS.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.supplier.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\Desktop Application.csproj.GenerateResource.Cache
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.exe
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.pdb
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\bin\Debug\LoginRegister.exe.config
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\bin\Debug\LoginRegister.exe
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\bin\Debug\LoginRegister.pdb
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\Desktop Application.csprojResolveAssemblyReference.cache
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.Dashboard.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.DashboardA.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.editS.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.inventory.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.inventoryS.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.edit.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.Login.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.LoginS.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.main.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.orders.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.ordersS.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.SignUp.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.SignupS.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.supplier.resources
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\Desktop Application.csproj.GenerateResource.Cache
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.exe
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.pdb
+E:\TechFix\TechFix Desktop\LoginRegister\bin\Debug\LoginRegister.exe.config
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.exe
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.pdb
+E:\TechFix\TechFix Desktop\LoginRegister\bin\Debug\LoginRegister.exe
+E:\TechFix\TechFix Desktop\LoginRegister\bin\Debug\LoginRegister.pdb
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\Desktop Application.csprojResolveAssemblyReference.cache
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.Dashboard.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.DashboardA.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.editS.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.inventory.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.inventoryS.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.edit.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.Login.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.LoginS.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.main.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.orders.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.ordersS.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.SignUp.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.SignupS.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\LoginRegister.supplier.resources
+E:\TechFix\TechFix Desktop\LoginRegister\obj\Debug\Desktop Application.csproj.GenerateResource.Cache

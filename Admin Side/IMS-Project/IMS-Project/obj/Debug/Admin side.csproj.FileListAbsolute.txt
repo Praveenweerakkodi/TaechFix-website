@@ -1,0 +1,83 @@
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\IMS-Project.dll.config
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\IMS-Project.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\IMS-Project.pdb
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\Antlr3.Runtime.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\EntityFramework.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\Newtonsoft.Json.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Helpers.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Mvc.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Optimization.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Razor.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\WebGrease.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\EntityFramework.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Helpers.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Mvc.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Optimization.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Razor.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\Antlr3.Runtime.pdb
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\bin\Newtonsoft.Json.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\obj\Debug\IMS-Project.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Admin Side\IMS-Project\IMS-Project\obj\Debug\IMS-Project.pdb
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\IMS-Project.dll.config
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\IMS-Project.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\IMS-Project.pdb
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\Antlr3.Runtime.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\EntityFramework.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\Newtonsoft.Json.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Helpers.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Mvc.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Optimization.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Razor.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\WebGrease.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\EntityFramework.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Helpers.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Mvc.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Optimization.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Razor.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\Antlr3.Runtime.pdb
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\bin\Newtonsoft.Json.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\obj\Debug\Admin side.csprojResolveAssemblyReference.cache
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\obj\Debug\IMS-Project.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Admin Side\IMS-Project\IMS-Project\obj\Debug\IMS-Project.pdb
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\IMS-Project.dll.config
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\IMS-Project.dll
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\IMS-Project.pdb
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\Antlr3.Runtime.dll
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\EntityFramework.dll
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\Microsoft.Web.Infrastructure.dll
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\Newtonsoft.Json.dll
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Helpers.dll
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Mvc.dll
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Optimization.dll
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Razor.dll
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Deployment.dll
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.dll
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Razor.dll
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\WebGrease.dll
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\EntityFramework.xml
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Helpers.xml
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Mvc.xml
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Optimization.xml
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.Razor.xml
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.xml
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Deployment.xml
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\System.Web.WebPages.Razor.xml
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\Antlr3.Runtime.pdb
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\bin\Newtonsoft.Json.xml
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\obj\Debug\Admin side.csprojResolveAssemblyReference.cache
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\obj\Debug\IMS-Project.dll
+E:\TechFix\Admin Side\IMS-Project\IMS-Project\obj\Debug\IMS-Project.pdb

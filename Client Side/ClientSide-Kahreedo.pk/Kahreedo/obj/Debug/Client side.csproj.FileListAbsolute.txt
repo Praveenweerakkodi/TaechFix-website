@@ -1,0 +1,95 @@
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Khareedo.dll.config
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Khareedo.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Khareedo.pdb
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Antlr3.Runtime.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\EntityFramework.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Newtonsoft.Json.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\PagedList.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\PagedList.Mvc.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Helpers.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Mvc.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Optimization.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Razor.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\WebGrease.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\EntityFramework.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\PagedList.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\PagedList.Mvc.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Helpers.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Mvc.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Optimization.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Razor.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Antlr3.Runtime.pdb
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Newtonsoft.Json.xml
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\obj\Debug\Khareedo.dll
+C:\Users\Praveen\Desktop\E-Commerce-Website-master\E-Commerce-Website-master\Client Side\ClientSide-Kahreedo.pk\Kahreedo\obj\Debug\Khareedo.pdb
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Khareedo.dll.config
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Khareedo.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Khareedo.pdb
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Antlr3.Runtime.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\EntityFramework.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Newtonsoft.Json.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\PagedList.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\PagedList.Mvc.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Helpers.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Mvc.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Optimization.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Razor.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\WebGrease.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\EntityFramework.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\PagedList.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\PagedList.Mvc.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Helpers.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Mvc.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Optimization.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Razor.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Antlr3.Runtime.pdb
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Newtonsoft.Json.xml
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\obj\Debug\Client side.csprojResolveAssemblyReference.cache
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\obj\Debug\Khareedo.dll
+C:\Users\Praveen\Desktop\KG_HDCSE_CMU_24_07\KG_HDCSE_CMU_24_07\Project file\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\obj\Debug\Khareedo.pdb
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Khareedo.dll.config
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Khareedo.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Khareedo.pdb
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Antlr3.Runtime.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\EntityFramework.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Microsoft.Web.Infrastructure.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Newtonsoft.Json.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\PagedList.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\PagedList.Mvc.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Helpers.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Mvc.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Optimization.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Razor.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.Deployment.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.Razor.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\WebGrease.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\EntityFramework.xml
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\PagedList.xml
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\PagedList.Mvc.xml
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Helpers.xml
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Mvc.xml
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Optimization.xml
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.Razor.xml
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.xml
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.Deployment.xml
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\System.Web.WebPages.Razor.xml
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Antlr3.Runtime.pdb
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\bin\Newtonsoft.Json.xml
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\obj\Debug\Client side.csprojResolveAssemblyReference.cache
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\obj\Debug\Khareedo.dll
+E:\TechFix\Client Side\ClientSide-Kahreedo.pk\Kahreedo\obj\Debug\Khareedo.pdb

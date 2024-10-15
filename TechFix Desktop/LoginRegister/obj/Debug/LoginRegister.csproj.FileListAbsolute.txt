@@ -1,0 +1,22 @@
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\bin\Debug\LoginRegister.exe.config
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\bin\Debug\LoginRegister.exe
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\bin\Debug\LoginRegister.pdb
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.Login.resources
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.SignUp.resources
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.CopyComplete
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.exe
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.pdb
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\bin\Debug\LoginRegister.exe.config
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.exe
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.pdb
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\bin\Debug\LoginRegister.exe
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\bin\Debug\LoginRegister.pdb
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.csprojResolveAssemblyReference.cache
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.Login.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.SignUp.resources
+C:\Users\Praveen\Desktop\dotNet-Login-Register-main\dotNet-Login-Register-main\LoginRegister\obj\Debug\LoginRegister.csproj.GenerateResource.Cache
